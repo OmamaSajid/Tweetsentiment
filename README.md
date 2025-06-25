@@ -61,13 +61,16 @@ You have **two options** to run TweetSensei:
   model = pickle.load(open('trained_model.sav', 'rb'))
 If you want to train the model from the beginning:
 
-Open the notebook tweet_sensei.ipynb in Google Colab.
+Open the notebook tweetsensei.ipynb in Google Colab.
 
 Download the dataset from Kaggle:
 
 kaggle datasets download -d kazanova/sentiment140
 unzip sentiment140.zip
+
 And enjoyyy
+
+
 Thanks for checking out TweetSensei!
 🐦 Happy Tweet Sniffing — and see you next project!
 Bye Bye! 👋
